@@ -39,3 +39,5 @@ Run the script with the task name you want to manage:
 ## License
 
 This project is licensed under the **MIT License** — feel free to use, modify, and share it.
+
+## Made with <3 and ChatGPT
