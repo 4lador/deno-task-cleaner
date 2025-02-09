@@ -1,4 +1,4 @@
-# Deno Task Cleaner 🧹
+# Deno Task Cleaner
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Shell](https://img.shields.io/badge/Shell-Fish%20%7C%20Bash-orange)
