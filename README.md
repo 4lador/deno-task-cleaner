@@ -7,7 +7,7 @@
 A handy shell script for Deno projects...
 
 - Kill duplicate task instances in monorepos.
-- Filter out annoying `compilerOptions` and `importMap` warnings from `stderr`.
+- Filter out any unwanted text from stderr using `grep`, including but not limited to `compilerOptions` and `importMap` warnings.
 - Ensure a clean development environment with Deno tasks.
 
 Ideal for **Deno projects**, especially those using **Fresh with custom configurations like monorepos** or any Deno process that needs **stderr filtering**.
