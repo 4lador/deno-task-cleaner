@@ -10,7 +10,7 @@ A handy shell script for Deno projects...
 - Filter out annoying `compilerOptions` and `importMap` warnings from `stderr`.
 - Ensure a clean development environment with Deno tasks.
 
-Ideal for **Deno monorepos** or projects using **Fresh**.
+Ideal for **Deno projects**, especially those using **Fresh with custom configurations like monorepos** or any Deno process that needs **stderr filtering**.
 
 ## Features
 - Dynamic task handling: Specify the task name as an argument.
