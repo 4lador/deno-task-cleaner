@@ -4,7 +4,7 @@
 DENO_PARENT_PIDS=$(pgrep -f "deno task $1")
 
 if [ -n "$DENO_PARENT_PIDS" ]; then
-  echo "🛑 Killing existing $1 instances"
+  echo "Killing existing $1 instances"
   echo "$DENO_PARENT_PIDS" | while read PID; do
     echo "  → Killing PID: $PID"
     kill $PID
