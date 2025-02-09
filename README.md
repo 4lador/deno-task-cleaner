@@ -23,7 +23,7 @@ Ideal for **Deno projects**, especially those using **Fresh with custom configur
 ## Installation
 
 ```bash
-curl -o filter-warns.sh https://raw.githubusercontent.com/YOUR_USERNAME/deno-task-cleaner/main/filter-warns.sh
+curl -o filter-warns.sh https://raw.githubusercontent.com/4lador/deno-task-cleaner/main/filter-warns.sh
 chmod +x filter-warns.sh
 ```
 
